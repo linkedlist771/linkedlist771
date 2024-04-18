@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 
+I am Linkedlist771, a post-graduate student at UCAS, mastersing Python(I suppose 😂).  Currently, I am interested in the `LLM` and the `Rust` langugae, feel free to give isse if you meet any question in my project, I will reply to you as soon as possible.
+
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=linkedlist771&show_icons=true&theme=radical)
 
 <!--
