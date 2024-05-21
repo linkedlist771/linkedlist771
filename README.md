@@ -3,7 +3,6 @@ I am Linkedlist771, a post-graduate student at UCAS, mastersing Python(I suppose
 
 Email: 213193509seu@gmail.com
 
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=linkedlist771&show_icons=true&theme=radical)
 
 
 
