@@ -1,4 +1,4 @@
-![image](https://github.com/linkedlist771/linkedlist771/assets/72634327/f7273f79-2375-4a22-8f1b-7daacb1514fc)### Hi there 👋 
+### Hi there 👋 
 I am Linkedlist771, a post-graduate student at UCAS, mastersing Python(I suppose 😂).  Currently, I am interested in the `LLM` and the `Rust` langugae, feel free to give isse if you meet any question in my project, I will reply to you as soon as possible.
 
 Email: 213193509seu@gmail.com
