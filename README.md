@@ -1,3 +1,5 @@
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=2500&color=8C43EA&vCenter=true&width=200&height=40&lines=Hello+there+%F0%9F%91%8B%F0%9F%8F%BB;I'm+linkedlist+771)](https://git.io/typing-svg)
 ### Hi there 👋 
 I am Linkedlist771, a post-graduate student at UCAS, mastersing Python(I suppose 😂).  Currently, I am interested in the `LLM` and the `Rust` langugae, feel free to give issue if you meet any question in my project, I will reply to you as soon as possible.
 
