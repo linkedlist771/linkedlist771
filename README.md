@@ -14,7 +14,7 @@ Email: 213193509seu@gmail.com
 
 <a align="center" href="http://hexo.dingli.life">
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=linkedlist771&show_icons=true&theme=tokyonight" alt="my github stats" width="840"/>&nbsp;
+<img src=“https://github-readme-stats-one-omega-58.vercel.app/api?username=linkedlist771&show_icons=true&theme=tokyonight" alt="my github stats" width="840"/>&nbsp;
     
 <img src="https://wakatime.com/share/@linkedlist771/d0d1c8c7-252c-446e-b506-f2d082622c0a.svg" alt="my github stats" width="840"/>&nbsp;
 
