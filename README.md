@@ -12,7 +12,7 @@ Email: 213193509seu@gmail.com
 
 
 
-<a align="center" href="http://hexo.dingli.life">
+<a align="center" href="https://github-readme-stats-one-omega-58.vercel.app/api?username=linkedlist771&show_icons=true&theme=tokyonight">
 <p align="center">
 <img src=“https://github-readme-stats-one-omega-58.vercel.app/api?username=linkedlist771&show_icons=true&theme=tokyonight" alt="my github stats" width="840"/>&nbsp;
     
