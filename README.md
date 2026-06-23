@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I am **Linkedlist771**, a graduate student at **UCAS** and currently working on **Large Scale Distributed LLM inference**.
+I am **Linkedlist771**, a graduate student at **UCAS** and currently working on **Large Scale Distributed LLM inference**. My MBTI is ENTJ-A.
 
 I am interested in the infrastructure behind **LLM deployment**, **deep learning systems**, and **LLM backend engineering** — including inference engines, serving systems, compilers, kernels, and performance optimization.
 
