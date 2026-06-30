@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=2500&color=8C43EA&vCenter=true&width=420&height=40&lines=Hello+there+%F0%9F%91%8B%F0%9F%8F%BB;I'm+linkedlist771;LLM+Infra+%2F+Inference+Systems)](https://git.io/typing-svg)
-
+[![GitHub Roast](https://githubroast.icu/api/card/linkedlist771)](https://githubroast.icu/u/linkedlist771)
 ### Hi there 👋
 
 I am **Linkedlist771**, a graduate student at **UCAS** and currently working on **Large Scale Distributed LLM inference**. My MBTI is ENTJ-A.
