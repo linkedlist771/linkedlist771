@@ -18,10 +18,13 @@ I am interested in the infrastructure behind **LLM deployment**, **deep learning
 
 ## Experience
 
-- **LLM Distributed Serving** · May 2026 – Present
-- **LLM Architecture** — Enflame · Jan 2025 – Sep 2025
-- **LLM Algorithm** — Skywork · Sep 2023 – Apr 2024
-- **Text2Image Training Framework** — Turing AI Institute of Nanjing · Jun 2023 – Sep 2023
+| Role | Company | Duration |
+|------|---------|----------|
+| LLM Distributed Serving | - | May 2026 – Present |
+| LLM Architecture | Enflame | Jan 2025 – Sep 2025 |
+| LLM Algorithm | Skywork | Sep 2023 – Apr 2024 |
+| Text2Image Training Framework | Turing AI Institute of Nanjing | Jun 2023 – Sep 2023 |
+
 
 Outside engineering, I am also into **anime cosplay**.
 
