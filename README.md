@@ -16,6 +16,13 @@ I am interested in the infrastructure behind **LLM deployment**, **deep learning
 - Compilers, runtimes, and kernel performance
 - Systems work around model deployment at scale
 
+## Experience
+
+- **LLM Distributed Serving** · May 2026 – Present
+- **LLM Architecture** — Enflame · Jan 2025 – Sep 2025
+- **LLM Algorithm** — Skywork · Sep 2023 – Apr 2024
+- **Text2Image Training Framework** — Nanjing AI Lab · Jun 2023 – Sep 2023
+
 Outside engineering, I am also into **anime cosplay**.
 
 **Email:** 213193509seu@gmail.com
@@ -23,6 +30,7 @@ Outside engineering, I am also into **anime cosplay**.
 ---
 
 <div align="center">
+
 
 [<img src="https://githubroast.icu/api/card/linkedlist771" alt="GitHub Roast" width="760">](https://githubroast.icu/u/linkedlist771)
 
