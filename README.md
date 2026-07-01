@@ -6,7 +6,7 @@
 
 ## Hi, I'm Linkedlist771
 
-Graduate student at **UCAS**, working on **large-scale distributed LLM inference**.
+Graduated from **UCAS**, working on **large-scale distributed LLM inference**.
 
 `LLM inference` · `Serving systems` · `GPU kernels` · `Python` · `Rust`
 
